@@ -6,3 +6,11 @@ During this project, I had to analyze the data of a School District. I utlized t
 ## Resources
 Resources: 
 Software: Anaconda, Python, Jupyter Notebook
+
+## Results
+### Original - District Analysis 
+### Updated Top Schools 
+<img width="360" alt="image" src="https://user-images.githubusercontent.com/102767530/177891945-fefcdcf7-ac2b-42cc-a64f-625a9664a4ec.png">
+
+
+
